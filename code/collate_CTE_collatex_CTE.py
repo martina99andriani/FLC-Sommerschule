@@ -34,7 +34,7 @@ def make_lower(word):
     else:
         return word.lower()
 
-def collate_to_csv(formula, work_folder, baseline_sigla, collatex_location, special=''):
+def collate_to_csv(formula, work_folder, baseline_sigla, collatex_location, special='', java_exe='java'):
     # create collatex json input file 
     txt_inputs = glob(os.path.join(work_folder, 'txt_from_XML', special, '{}_*_input.txt'.format(formula)))
     print(txt_inputs)
@@ -54,7 +54,7 @@ def collate_to_csv(formula, work_folder, baseline_sigla, collatex_location, spec
 
     # Run collatex on json input file 
     json_output_filename = os.path.join(work_folder, 'collatex_output', os.path.basename(json_input_filename).replace('_input', '_output'))
-    os.system('~/java/11.0.17-ms/bin/java -jar {collatex} -f json -t -o {output} {input}'.format(collatex=collatex_location, output=json_output_filename, input=json_input_filename))
+    os.system('{java_exe} -jar {collatex} -f json -t -o {output} {input}'.format(java_exe=java_exe, collatex=collatex_location, output=json_output_filename, input=json_input_filename))
 
     # Produce the CSV file with the results 
     csv_output_filename = json_output_filename.replace('.json', '.csv')
@@ -116,8 +116,8 @@ def produce_cte_xml(base_text, json_output_filename, script_dir, baseline_sigla)
     with open(json_output_filename.replace('.json', '_finished.xml'), mode="w") as f:
         f.write(xml_output)
         
-def run_process(formula, baseline, folder, collatex, script_dir, with_special=True):
-    base_text, json_output_filename = collate_to_csv(formula=formula, work_folder=folder, special='', baseline_sigla=baseline, collatex_location=collatex)
+def run_process(formula, baseline, folder, collatex, script_dir, with_special=True, java_exe='java'):
+    base_text, json_output_filename = collate_to_csv(formula=formula, work_folder=folder, special='', baseline_sigla=baseline, collatex_location=collatex, java_exe=java_exe)
     produce_cte_xml(base_text=base_text, json_output_filename=json_output_filename, script_dir=script_dir, baseline_sigla=baseline)
     if with_special:
         collate_to_csv(formula=formula, work_folder=folder, special='special', baseline_sigla=baseline, collatex_location=collatex)
@@ -130,7 +130,8 @@ if __name__ == "__main__":
     parser.add_argument('--folder', help="The folder that contains the 'txt_from_XML', the 'collatex_json_input' and the 'collatex_output' folders.")
     parser.add_argument('--collatex', help="The complete path to your collatex .jar file")
     parser.add_argument('--special', help="Add the --special flag if you have special manuscript collations in the 'txt_from_XML/special' folder that should be collated together separately. This will produce a separate .csv file that contains only these special manuscripts.", action="store_true")
+    parser.add_argument('--java', help='The path to the Java executable that should be used to run collatex. Change this to point to an older version of Java if you get unexpected errors in the process. Defaults to "java", that is, the default Java executable.', default="java")
     input_args = vars(parser.parse_args())
-    run_process(formula=input_args['prefix'], baseline=input_args['baseline'], folder=input_args['folder'], collatex=input_args['collatex'], with_special=input_args['special'], script_dir=script_dir)
+    run_process(formula=input_args['prefix'], baseline=input_args['baseline'], folder=input_args['folder'], collatex=input_args['collatex'], with_special=input_args['special'], script_dir=script_dir, java_exe=input_args['java'])
     
     
