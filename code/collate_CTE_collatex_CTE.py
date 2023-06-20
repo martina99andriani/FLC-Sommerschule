@@ -70,7 +70,7 @@ def collate_to_csv(formula, work_folder, baseline_sigla, collatex_location, spec
             txt = f.read().split('******\n')[3]
         wits.append(
             {'id': wit_id, 'tokens': [{'t': make_lower(w.rstrip(punct))} for w in txt.split() if w.rstrip(punct)]})
-        if baseline_sigla in i:
+        if baseline_sigla == wit_id:
             base_text = [{'t': w} for w in txt.split()]
 
     with open(json_input_filename, mode="w") as f:
@@ -144,7 +144,7 @@ def produce_cte_xml(base_text, json_output_filename, script_dir, baseline_sigla)
             if k != baseline:
                 readings.append('{reading} {witness}'.format(witness=', '.join([
                                                                                    '<hi rend="font-size:10pt;font-style:italic;">{}</hi><hi rend="font-size:10pt;font-style:italic;vertical-align:sub;font-size:smaller;">{}</hi>'.format(
-                                                                                       re.search(r'(\D+)(\d*[a-z]?)',
+                                                                                       re.search(r'(\D+)(\d*[a-z]*)',
                                                                                                  witnesses[x]).groups(
                                                                                            '')[0],
                                                                                        re.search(r'(\D+)(\d*[a-z]?)',
