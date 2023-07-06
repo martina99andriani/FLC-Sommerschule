@@ -1,0 +1,8 @@
+Markulf I,9 Edition Uddholm (Udd): Created by an unregistered copy of the Classical Text Editor.*!*!
+******
+
+******
+gte: ; lte: ; when:
+******
+IX INDECOLUM AD ALIUM REGEM, CUM LIGATIO DIREGITUR ET UERBIS SUGERIT, COMMENDATIUM Domino glorioso atque precellentissimo fratre illo rege in Dei nomen illi rex. Desideratus euentus fidelissima nobis obtullit facultatem, qua uestrae serenitatem salutacionis honorificenciam prebeamus, eo uidelicet dilecciones affectu prosperitate uestre celsitudinis cognuscire cupientes, quo uestram gloriam erga nus fraternitatis indiuiduam arbitramur. Proinde presentes uiros inlustris illo et illo ad presenciam fraternitatis uestre direximus; quibus, ut uestra gloria condecit, benignissima tranquillitatae susceptis, petimus, ut dum officium legacionis iniuncte peraegerint, responsis uestre clemenciae premoniti ad referendum salutis inditium sacris uestris literis honorentur.
+******

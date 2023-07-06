@@ -1,8 +1,0 @@
-Markulf II,37 Zeumer (Zeu)*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-Gesta iuxta consuetudine Romanorum, qualiter donationes vel testamenta legentur Anno illo regnante rege illo, sub die illo, in civitate illa, adstante viro illo laudabile defensore et omne curiam illius civitatis, vir magnificus ille prosecutor dixit: ‘Peto, obtime defensor, vosque, laudabiles curialis atque municepis, ut mihi codices publicus patere iubeatis, quia habeo aliquid, que gestis prosequere debeam’. Vir honestus ille defensor et curiales dixerunt: ‘Patent tibi Codices publici; prosequere que obtas, edicere non moreris’. Vir magnificus prosecutor ille dixit: ‘Venerabilis vir, aut inluster vir, ille per cartam mandati sui mihi iniunxit, ut illa donacione, testamentum aut cessione, quod ad basilica, aut loco sancto, ill., aut inlustris viro illius, ad presens, aut post discessum, deligavit, in vice sua, ut mos est, gestis municipalibus ipsa donacione debeam alligare’. Vir honestus defensor illi dixit: ‘Mandatum, quod in te conscriptum habere dicis, nobis debis ostendere vel in presente recitare’.
-******

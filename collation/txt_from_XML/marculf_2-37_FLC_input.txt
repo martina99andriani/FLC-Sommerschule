@@ -1,8 +1,0 @@
-Markulf II,37 FLC (FLC)*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-GESTA IUXTA CONSUETUDINEM ROMANORUM QUALITER DONATIONIS VEL TESTAMENTUM LEGENTUR Anno illo regnante rege illo, sub die illo, in civitate illa adstante viro illo laudabile defensore et omne curiam illius civitatis vir magnificus ille prosecutor dixit: „Peto, obtime defensor, vosque, laudabilis curialis adque municepis, ut mihi codices publicus [patere iubeatis, quia habeo aliquid, quae gestis prosequere debeam.“ Vir honestus ille defensor et curiales dixerunt: „Patent tibi codices publici,] prosequere quae obtas; edicere non moreris“. Vir magnificus prosecutor ille dixit: „Venerabilis vir aut inluster vir ille per cartam mandata sui [mihi] iniunxit, ut illam donationem testamenti aut cessionem, quod ad basilica aut loco sancto illo aut inlustri viro illo ad praesens aut post discessum delegevit, in vice sua, ut mos est, gestis municipalibus ipsam donationem debeam allegare“. Vir honestus defensor illi dixit: „Mandatum, quod in te conscriptum habere dicis, nobis [debis] ostendere vel in presente recitare.“
-******
