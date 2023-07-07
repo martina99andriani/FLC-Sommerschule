@@ -1,8 +1,0 @@
-Markulf I,9 Paris BNF 4627 (P12): Created by an unregistered copy of the Classical Text Editor.*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-VIIII INDICULUM AD ALIUM REGEM CUM LEGATIO DIRIGITUR ET UERBIS SUGGERIT COMMENDATICIIS Domino glorioso atque praecellentissimo fratri illo regi in Dei nomen ille rex. Desideratus euentus fidelissimam nobis obtulit facultatem, quia uestrae serenitate salutationis honorificentiam praebeamus, eo uidelicet dilectiones affectu proprietate uestrae celsitudinis cognoscere cupientes, quo uestram gloriam erga nos fraternitatis indiuiduam arbitramur. Proinde praesentes uiros inlustris illos et illos ad praesentiam fraternitatis uestrae direximus, quibus uestram gloriam condecet benignissimam tranquillitate susceptis petimus, ut dum officium legacionis iniuncte peregerent, responsis uestrae clementiae praemoniti ad referendum salutis indicium sacris uestris litteris honorentur.
-******

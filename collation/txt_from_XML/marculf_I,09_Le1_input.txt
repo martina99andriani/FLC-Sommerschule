@@ -1,8 +1,0 @@
-Markulf I,9 Leiden BPL 114 (Le1): Created by an unregistered copy of the Classical Text Editor.*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-VIIII INDECOLUM AD ALIUM REGEM CUM LEGATIO DIREGITUR ET UERBIS SUGGERIT COMMENDATIUM Domino glorioso atque praecellentissimo fratri illo regi in Dei nomen ille rex. Desideratus euentus fidelissima nobis obtulit facultatem, qua uestrae serenitatem salutationis honorificenciam praebeamus, eo uidelicet dileccionis affectu proprietatem uestrae celsitudinis cognuscire cupientes, quo uestram gloriam erga nos fraternitatis indiuiduam arbitramur. Proinde praesentes uiros inlustris illos et illos ad praesenciam fraternitatis uestre direximus, quibus, ut uestram gloriam condecit, benignissima tranquillitatae, susceptis petimus, ut dum officium legacionis iniunctae peraegerint, responsis uestrae clemencia premuniti ad referendum salutis indicium sacris uestris litteris honorentur.
-******

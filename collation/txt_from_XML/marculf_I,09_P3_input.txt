@@ -1,8 +1,0 @@
-Markulf I,9 Paris BNF 2123 (P3)*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-INDICULUM AD ALIUM REGEM CUM LIGATIO DIRIGITUR ET UERBIS SUGGERIT COMMEND... Domino glorioso atque praecelentissimo fratri illo regi in Dei nomen ille rex. Desideratus euentus fidelissimam nobis obtullit facultatem, quanta nobis serenitas salutationis honorificentiam praebeamus, eo uidelicet dileccionis affectu prosperitate uestre celsitudinis cognuscere cupientes, quo nostre gloriae erga nos fraternitas indiuiduam arbitramur. Proinde praesentis uiris inlustris illo et illo ad praesentiam fraternitatis uestre direximus, quibus, ut uestram gloriam decet, benignissima tranquillitate susceptis, petimus, ut dum officium legacionis peregerint, responsionis uestre clementiae praemuniti ad referendum salutis inditium sacris uestris literis honorentur.
-******

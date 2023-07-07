@@ -1,8 +1,0 @@
-Markulf I,9 Leiden Voss. lat. O.86 (Le3): Created by an unregistered copy of the Classical Text Editor.*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-EPISTULA REGALIS AD ALIUM REGE DESTINENDA Domino glorioso atque praecellentissimo fratri illo regi ego in Dei nomine ille gratia Dei rex. Desideratus euentus fidelissimam nobis obtulit facultatem, qua uestrae serenitatis salutationis honorificentiam praebeamus, eo uidelicet dilectionis affectu prosperitatem uestrae celsitudinis cognoscere cupientes, quo uestrae fraternitatis gloriam erga nos indiuiduam arbitramur. Proinde presentes uiros illustres illos uel illos ad praesentiae fraternitatis uestrae direximus, quibus, ut uestrae dignitati condecet, benignissima tranquillitate susceptis, petimus, ut, dum officium legationis iniuncte peregerint, responsis uestrae clementiae praemoniti ad referendum salutis indicium sacris litteris exaretur. Ualete.
-******

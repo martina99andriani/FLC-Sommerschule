@@ -1,8 +1,0 @@
-Markulf I,9 Edition Zeumer (Zeu): Created by an unregistered copy of the Classical Text Editor.*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-Indecolum ad alium regem, cum legatio diregitur et uerbis suggerit, commendatium Domino glorioso atque precellentissimo fratri illo regi in Dei nomen ille rex. Desideratus euentus fidelissima nobis obtulit facultatem, qua uestrae serenitatem salutationis honorificenciam prebeamus, eo uidelicet dileccionis affectu prosperitatem uestrae celsitudinis cognuscire cupientes, quo uestram gloriam erga nos fraternitatis indiuiduam arbitramur. Proinde presentes uiros inlustris illos et illos ad presenciam fraternitatis uestre direximus, quibus, ut uestram gloriam condecit, benignissima tranquillitatae susceptis, petimus, ut dum officium legacionis iniunctae peraegerint, responsis uestrae clemenciae premuniti ad referendum salutis indicium sacris uestris litteris honorentur.
-******
