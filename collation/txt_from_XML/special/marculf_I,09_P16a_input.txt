@@ -1,0 +1,8 @@
+Markulf I,9 Paris BNF 10756 (P16a)*!*!
+******
+
+******
+gte: ; lte: ; when:
+******
+VIIII INDICOLUM AD ALIUM REGEM CUM LEG[...] [...]TUR ET UERBIS SUGERIT COMMENDATICIUM Domino glorioso atque praecellentissimo fratre illo rege in Dei nomen illi rex. Desideratus euentus fidissimam nobis obtulit facultatem, qua uestrae serenitate salutacionis honorificenciam praebeamus, eo uidelicet dileccionis affectu prosperitati uestre celsitudinis cognuscere cupientes, quo uestram gloriam erga nus fraternitatis indiuiduam arbitramur. Proinde praesentes uiris inlustres illos et illos ad praesenciam fraternitatis uestre direximus, quibus, ut uestra gloria condecet, benignissima tranquillitate susceptis, petimus, ut dum officium legacionis iniuncte peregerint, responsis uestre clemenciae praemuniti ad referendum salutis indicium sacris uestris litteris honorentur.
+******
