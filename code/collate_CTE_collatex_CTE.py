@@ -172,7 +172,7 @@ def run_process(formula, baseline, folder, collatex, script_dir, with_special=Tr
                     baseline_sigla=baseline)
     if with_special:
         collate_to_csv(formula=formula, work_folder=folder, special='special', baseline_sigla=baseline,
-                       collatex_location=collatex)
+                       collatex_location=collatex, java_exe=java_exe)
 
 
 if __name__ == "__main__":
