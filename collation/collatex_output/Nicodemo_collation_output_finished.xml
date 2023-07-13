@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="format.css"?>
+<!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI P5//EN" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>SOME AUTHOR</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>SOME DATE</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p rend="text-indent:0mm;">unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p rend="text-indent:0mm;">Automatic Export from Collatex</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>SOME DATE</date>
+          <name>SOME NAME</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>[fol. 1vb] Disw red screibt uns sand lucas Der ein ewangeliste was Johannes martire und mattheus Furbas saget uns Nycodemus Wann er was taugen gotes cnch Und sach wol daz er het reht Er sterket furbas sem wort Wann er was mit inen dort Di crist gevangen haten Und alles daz si taten daz sach er an mit augen Im waren kunt di taugen Und west ir rede zu ende gar Der iunger qam chainer dar Vor der ubelen juden vorhte [fol. 2ra] Do er der rede gehorte Bis daz si in vortailten Iren leip si not veileren Und under den iuden sich vorparch Er was dez kunes also strach Daz im di iuden fursten Niht geschaden torsten Er hort ir wart und sach ir werch Si herren vor im kam geperch Alles saz si taten Doch wolt er in niht verraten Noch ia ni vor dem gerihte Und gehal in an nihte Dez si an im begingen Si unsern herren vingen Als ich vor geredet han. </p></div></body></text></TEI>
